@@ -1,4 +1,4 @@
-#   HackUSU 2022 - 3/18/22
+#   HackUSU 2022 - Port Scanner
 ---
 ###   Privacy and Security Winners
 Jonathan Haroldsen | Brandon Foos | Brandon Murphy
